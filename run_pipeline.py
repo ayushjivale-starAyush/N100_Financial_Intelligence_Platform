@@ -1,0 +1,5 @@
+print("=" * 50)
+print("N100 Financial Intelligence Platform")
+print("Sprint 1 – Data Foundation")
+print("Environment setup completed successfully.")
+print("=" * 50)
