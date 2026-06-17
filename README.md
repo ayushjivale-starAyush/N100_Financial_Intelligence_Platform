@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # N100 Financial Intelligence Platform
 
 ## Sprint 1 – Data Foundation
@@ -25,3 +26,6 @@ Build and validate a SQLite database named `nifty100.db` using financial dataset
 - db : Database and schema
 - output : Validation reports
 - notebooks : SQL queries
+=======
+# N100_Financial_Intelligence_Platform
+>>>>>>> 26381aa4ab9f9e6daa6ded5b75ddf4a60cff5d96
